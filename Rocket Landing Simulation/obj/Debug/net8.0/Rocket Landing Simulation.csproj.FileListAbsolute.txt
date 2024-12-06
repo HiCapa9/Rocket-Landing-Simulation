@@ -1,0 +1,14 @@
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\bin\Debug\net8.0\Rocket Landing Simulation.exe
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\bin\Debug\net8.0\Rocket Landing Simulation.deps.json
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\bin\Debug\net8.0\Rocket Landing Simulation.runtimeconfig.json
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\bin\Debug\net8.0\Rocket Landing Simulation.dll
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\bin\Debug\net8.0\Rocket Landing Simulation.pdb
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.AssemblyInfoInputs.cache
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.AssemblyInfo.cs
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.csproj.CoreCompileInputs.cache
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.dll
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\refint\Rocket Landing Simulation.dll
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.pdb
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.genruntimeconfig.cache
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\ref\Rocket Landing Simulation.dll
