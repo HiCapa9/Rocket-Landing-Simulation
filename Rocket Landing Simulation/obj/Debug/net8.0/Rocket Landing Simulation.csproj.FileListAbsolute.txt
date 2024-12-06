@@ -12,3 +12,4 @@ D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0
 D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.pdb
 D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.genruntimeconfig.cache
 D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\ref\Rocket Landing Simulation.dll
+D:\Learning\Rocket Landing Simulation\Rocket Landing Simulation\obj\Debug\net8.0\Rocket Landing Simulation.sourcelink.json
